@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    <group
+
+        android:checkableBehavior="none">
+
+
+
+        <item
+            android:id="@+id/menu_ayuda"
+
+            android:title="@string/menu_ayuda" />
+        <item
+            android:id="@+id/menu_registros"
+
+            android:title="@string/menu_registros" />
+
+    </group>
+
+
+</menu>

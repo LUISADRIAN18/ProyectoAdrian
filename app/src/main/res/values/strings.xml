@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProyectoAdrian</string>
+    <string name="titulo_barra">Proyecto Adrian</string>
+    <string name="menu_ayuda">Ayuda</string>
+    <string name="seleccionar_bluetooth">seleccionar bluetooth</string>
+    <string name="conectar_bluetooth">conectar bluetooth</string>
+    <string name="status_bt">Estado de Conexión</string>
+    <string name="desconectar_bluetooth">desconectar bluetooth</string>
+    <string name="dispositivos">Dispositivos</string>
+    <string name="activar">Activar</string>
+    <string name="menu_registros">Registros</string>
+    <string name="ayuda_help">1.-Vincular el teléfono con el Bluetooth “UNAM”.\n2.-Presione el botón “Seleccionar Bluetooth”, y seleccione el Bluetooth “UNAM”.\n3.-Presione el botón “Conectar Bluetooth”, el indicador debe aparecer en verde con la leyenda “conectado”.\n4.-Una vez vinculado exitosamente, se le habilitaran los botones para “3 min” y “5 min”, listos para operar.\n5.- Una vez iniciado el cronometro, favor de no salir de la pantalla principal para evitar fallos en la comunicaciòn entre los bluetooths.</string>
+</resources>
