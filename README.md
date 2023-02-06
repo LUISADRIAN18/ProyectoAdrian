@@ -11,6 +11,8 @@ La orientación planteada desde el inicio del proyecto fue vertical. No es una a
  ## Credenciales
    No se requieren.
  ## Dependencias del proyecto (paquetes y/o frameworks utilizados)
+import android.database.sqlite.SQLiteDatabase
+import android.database.sqlite.SQLiteOpenHelper
 
  
 
