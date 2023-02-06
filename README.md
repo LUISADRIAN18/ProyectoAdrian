@@ -14,6 +14,10 @@ La orientación planteada desde el inicio del proyecto fue vertical. No es una a
 import android.database.sqlite.SQLiteDatabase
  
  import android.database.sqlite.SQLiteOpenHelper
+ import android.bluetooth.BluetoothAdapter
+import android.bluetooth.BluetoothDevice
+import android.bluetooth.BluetoothManager
+import android.bluetooth.BluetoothSocket
 
  
 
