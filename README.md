@@ -15,9 +15,9 @@ import android.database.sqlite.SQLiteDatabase
  
  import android.database.sqlite.SQLiteOpenHelper
  import android.bluetooth.BluetoothAdapter
-import android.bluetooth.BluetoothDevice
-import android.bluetooth.BluetoothManager
-import android.bluetooth.BluetoothSocket
+ import android.bluetooth.BluetoothDevice
+ import android.bluetooth.BluetoothManager
+ import android.bluetooth.BluetoothSocket
 
  
 
